@@ -1,0 +1,9 @@
+version: 0.1
+name: PTrails
+main: com.UseRod.PTrails.Main
+author: UseRod
+description: Projectile Trails Plugin
+prefix: PT
+commands:
+  ptrails:
+    description: main command
